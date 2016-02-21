@@ -5,3 +5,5 @@ require "bundler/setup"
 require "new_games"
 
 NewGames::CLI.new.call
+
+## Maybe do a reload?
